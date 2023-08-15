@@ -46,15 +46,17 @@ button:active {
 }
 
 .info {
-    background-color: hwb(281 61% 2%);
-      font-size: 1.2em;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: hwb(281 61% 2%);
+  text-align: center;
+  font-size: 1.2em;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   }
 
 #game-stats  {
-      background-color: blueviolet;
-            font-size: 1.2em;
-              margin: 20px;
-                padding: 20px;
+  background-color: blueviolet;
+  font-size: 1.2em;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
                 
 }
